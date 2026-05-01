@@ -1,0 +1,5 @@
+Dataset,Metric,Baseline,Fine-tuned,Delta
+Custom (Challenge 1),BLEU,30.31,52.92,+22.61
+Custom (Challenge 1),chrF,62.88,73.7,+10.82
+Custom (Challenge 1),chrF++,59.51,71.84,+12.33
+Custom (Challenge 1),TER,52.2,33.4,-18.80

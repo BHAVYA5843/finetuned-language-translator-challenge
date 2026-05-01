@@ -1,0 +1,22 @@
+{
+  "baseline": {
+    "Custom (Challenge 1)": {
+      "BLEU": 30.31,
+      "chrF": 62.88,
+      "chrF++": 59.51,
+      "TER": 52.2,
+      "BP": 0.9847,
+      "num_sentences": 84
+    }
+  },
+  "finetuned": {
+    "Custom (Challenge 1)": {
+      "BLEU": 52.92,
+      "chrF": 73.7,
+      "chrF++": 71.84,
+      "TER": 33.4,
+      "BP": 0.9709,
+      "num_sentences": 84
+    }
+  }
+}
